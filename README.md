@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 - 🔭 I’m currently working on  
-  **An internship project on Industrial Boiler Building Process and Company Overview**
+  **An internship project on Industrial Boiler Building Process and Company Overview** 
 
 - 🤝 I’m looking to collaborate on  
   **Automobile, Boiler-related, and Industrial Web Development Projects**
