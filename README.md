@@ -44,7 +44,7 @@
   **Automobiles, Boilers, Machines, and Industrial Technologies**
 
 - 📫 Reach me at  
-  **ahirampbsccscs@gmail.com**
+  **abhirampbsccscs@gmail.com**
 
 - ⚡ Fun Fact  
   **I enjoy creating industrial and automobile-based modern web applications**
